@@ -1,6 +1,10 @@
 # KTS-DEV
 
-KaairaTechsoft **Deve**~~_**lopm**_**ent** Work~~
+KaairaTechsoft 
+
+**Deve**_**lopm**_**ent** Work
+
+#### ~~sushil kumar~~
 
 ### new content
 
